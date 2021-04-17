@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Damon0820/vue-project-template/issues"
   },
-  "homepage": "https://github.com/Damon0820/vue-project-template#readme"
+  "homepage": "https://github.com/Damon0820/vue-project-template#readme",
+  "dependencies": {
+    "vue": "^2.5.2"{{#router}},
+    "vue-router": "^3.0.1"{{/router}}
+  }
 }
